@@ -59,4 +59,8 @@ I have tested java star 20 20 200, took around 6 seconds.
 
 I have also tested java star 20 20 20 20 20, also took around 6 seconds and around 800MB of memory.
 
-I guess the idea is to keep in mind this algorithm takes O((2m)^n) time, and O(m^n) memory. (There is no way to around that, since we doneed to output around m^n lines)
+Keep in mind this algorithm takes O((2m)^n) time, and O(m^n) memory. (There is no way to around that, since we doneed to output around m^n lines). The memory will run out way before the time become unreasonable. 
+
+Note I have uploaded a textfile of the result of running java star 30 30 30 400, which should be suffice for a while.
+Just running it took 2GB of ram, and around 10 minutes on my quad core 8GB ram i7 laptop (Oh if only I can use it to play Diablo...)
+The file have over 10 million lines, it is going to be a test of how fast can we operate on such large data. The file is sorted, so you might want to only read to 3 partitions if it become unreasonable to work on such large data.
