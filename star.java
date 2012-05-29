@@ -1,4 +1,3 @@
-import java.io.IOException;
 import java.util.*;
 //Katy Perry
 class Firework implements Comparable<Firework> {
@@ -167,16 +166,12 @@ public class star {
 		t.remove(t.size()-1);
 		blows(t,n-1,f,s);
 	}
-	
 	public static int mex(HashSet<Integer> s){
-		Integer[] a = new Integer[s.size()];
-		s.toArray(a);
-		Arrays.sort(a);
-		for(int i=0;i<a.length;i++){
-			if(i!=a[i]){
+		for(int i=0;i<s.size();i++){
+			if(!s.contains(i)){
 				return i;
 			}
 		}
-		return a.length;
+		return s.size();
 	}
 }
