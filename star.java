@@ -1,61 +1,96 @@
-import java.io.IOException;
-import java.util.*;
-//Katy Perry
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.Collections;
+import java.util.HashMap;
+import java.util.HashSet;
 class Firework implements Comparable<Firework> {
-	public ArrayList<Integer> a;
+	public HashMap<Integer, Integer> h;
 	public int hash; 
-	Firework(ArrayList<Integer> b){
-		a = new ArrayList<Integer>();
-		for(int i=0;i<b.size();i++){
-			if(b.get(i)>0){
-				a.add(b.get(i));
+	public ArrayList<Integer> a;
+	public static int get(HashMap<Integer, Integer> h,int k){
+		if(h.containsKey(k)){
+			return h.get(k);
+		}
+		return 0;
+	}
+	public static void put(HashMap<Integer, Integer> h, int k, int n){
+		if(k<=0){
+			return;
+		}
+		if(n<=0){
+			h.remove(k);
+			return;
+		}
+		h.put(k, n);
+	}
+	Firework(ArrayList<Integer> a){
+		h = new HashMap<Integer,Integer>();
+		if(a.size() == 2){
+			put(h,a.get(0)+a.get(1),1);
+		}else{
+			for(int i=0;i<a.size();i++){
+				put(h, a.get(i), get(h,a.get(i))+1);
 			}
 		}
-		if(a.size()==2){
-			Firework F = new Firework(a.get(0)+a.get(1));
-			a = F.a;
-			hash = F.hash;
-		}else{
-			Collections.sort(a);		
-			hash = Arrays.deepHashCode(a.toArray());
-		}
+		hash = h.hashCode();
 	}
 	Firework(int t){
-		a = new ArrayList<Integer>();
-		if(t>0){
-			a.add(t);
+		h = new HashMap<Integer,Integer>();
+		put(h,t,1);
+		hash = h.hashCode();
+	}
+	Firework(HashMap<Integer, Integer> hm){
+		h = hm;
+		if(h.size()<=2){
+			Integer[] key = new Integer[h.size()];
+			h.keySet().toArray(key);
+			int c = 0;
+			int s = 0;
+			for(int i=0;i<h.size();i++){
+				c+=h.get(key[i]);
+				s+=key[i]*h.get(key[i]);
+			}
+			if(c==2){
+				h = new HashMap<Integer, Integer>();
+				h.put(s, 1);
+			}
 		}
-		hash = Arrays.deepHashCode(a.toArray());
+		hash = h.hashCode();
 	}
 	//r=1 if remove 2, =1 if remove 1
 	public ArrayList<Firework> snap(int k, int j, int r){
-		int l = a.get(k);
-		Firework p = new Firework(l-j-r);
-		ArrayList<Integer> c = new ArrayList<Integer>(a);
-		c.set(k, j-1);
-		if(j-1==0){
-			c.remove(k);
-		}
-		Firework n = new Firework(c);
+		HashMap<Integer,Integer> h2 = new HashMap<Integer, Integer>(h);
+		//System.out.println(h2);
+		put(h2, k, h.get(k)-1);
+		//System.out.println(h2);
+		//System.out.println(j-1+ " "+(get(h,j-1)+1));
+		put(h2, j-1, get(h,j-1)+1);
+		//System.out.println(k+" "+j+" "+r+" "+h+" "+h2+" h2");
+		Firework p = new Firework(k-j-r);
+		Firework n = new Firework(h2);
 		ArrayList<Firework> result = new ArrayList<Firework>();
 		result.add(p);
 		result.add(n);
+		//System.out.println(result);
 		return result;
 	}
 	
-	public ArrayList<Firework> blow(ArrayList<Integer> r){
-		int c = r.size()-1;
+	public ArrayList<Firework> blow(HashMap<Integer, Integer> r){
+		Integer[] key = new Integer[r.size()];
+		r.keySet().toArray(key);
+		
 		ArrayList<Firework> f = new ArrayList<Firework>();
-		ArrayList<Integer> n = new ArrayList<Integer>();
-		for(int i=0;i<a.size();i++){
-			if(c>-1 && r.get(c)==i){
-				c--;
-				f.add(new Firework(a.get(i)-1));
-			}else{
-				n.add(a.get(i));
+		HashMap<Integer, Integer> h2 = new HashMap<Integer, Integer>(h);
+		
+		for(int i=0;i<r.size();i++){
+			int k = key[i];
+			put(h2, k, h.get(k)-r.get(k));
+			if(r.get(k)%2==1){
+				f.add(new Firework(k-1));
 			}
 		}
-		f.add(new Firework(n));
+		f.add(new Firework(h2));
+		//System.out.println(f + "blow");
 		return f;
 	}
 	
@@ -63,29 +98,48 @@ class Firework implements Comparable<Firework> {
 		return hash;
 	}
 	public String toString(){
-		return a.toString();
+		//return h.toString();
+		return toArrayList().toString();
 	}
 	public boolean equals( Object obj )
 	{
 		boolean flag = false;
 		Firework emp = ( Firework )obj;
-		if( this.a.equals(emp.a))
+		if( this.h.equals(emp.h))
 			flag = true;
 		return flag;
 	}
+	
+	public ArrayList<Integer> toArrayList(){
+		if(a!=null){
+			return a;
+		}
+		Integer[] key = new Integer[h.size()];
+		h.keySet().toArray(key);
+		Arrays.sort(key,Collections.reverseOrder());
+		a = new ArrayList<Integer>();
+		for(int i=0;i<key.length;i++){
+			for(int j=0;j<h.get(key[i]);j++){
+				a.add(key[i]);
+			}
+		}
+		return a;
+	}
 	@Override
 	public int compareTo(Firework f) {
-		if(a.size()>f.a.size()){
+		ArrayList<Integer> a = toArrayList();
+		ArrayList<Integer> b = f.toArrayList();
+		if(a.size()>b.size()){
 			return 1;
 		}
-		if(a.size()<f.a.size()){
+		if(a.size()<b.size()){
 			return -1;
 		}
 		for(int i=0;i<a.size();i++){
-			if(a.get(i)<f.a.get(i)){
+			if(a.get(i)<b.get(i)){
 				return -1;
 			}
-			if(a.get(i)>f.a.get(i)){
+			if(a.get(i)>b.get(i)){
 				return 1;
 			}
 		}
@@ -96,8 +150,6 @@ public class star {
 	public static HashMap<Firework, Integer> h = new HashMap<Firework, Integer>();
 	public static int count=0;
 	public static void main(String[] args){
-		
-		//int n = 3;
 		ArrayList<Integer> z = new ArrayList<Integer>();
 		for(int i=0;i<args.length;i++){
 			z.add(Integer.parseInt(args[i]));
@@ -105,10 +157,10 @@ public class star {
 		h.put(new Firework(0), 0);
 		Firework f = new Firework(z);
 		//All the computation is done in this following line
+		//System.out.println(f);
 		sg(f); // <------this line, takes 99.999% of the running time
 		//all the rest is just process the results, which is stored in h
 		
-		//System.out.println(h);
 		//System.out.println(sg(f));
 		Firework[] F = new Firework[h.size()];
 		h.keySet().toArray(F);
@@ -116,8 +168,6 @@ public class star {
 		for(int i=0;i<F.length;i++){
 			System.out.println(F[i]+" "+h.get(F[i]));
 		}
-		//System.out.println(count);
-		//System.out.println(F2);
 	}
 	//Find the sg number of a graph with many components
 	public static int sg(ArrayList<Firework> f){
@@ -135,48 +185,56 @@ public class star {
 		}
 		//The idea is to do every possible move
 		HashSet<Integer> s = new HashSet<Integer>();
+		
 		//Now start playing with delete 1 or 2 edges...
 		//I call it snap... 
-		for(int i=0;i<f.a.size();i++){
-			for(int j=1;j<=f.a.get(i);j++){
-				s.add(sg(f.snap(i, j, 0)));
-				s.add(sg(f.snap(i, j, 1)));
+		Integer[] key = new Integer[f.h.size()];
+		f.h.keySet().toArray(key);
+		for(int i=0;i<key.length;i++){
+			for(int j=1;j<=key[i];j++){
+				s.add(sg(f.snap(key[i], j, 0)));
+				s.add(sg(f.snap(key[i], j, 1)));
 			}
 		}
 		
 		//Then try with doing stuff in the center...
 		//I call it blow
-		//BY TEST EVERY COMBINATION OF COURSE (O(2^n) time T_T)
-		//Maybe it can be improved
-		blows(new ArrayList<Integer>(), f.a.size()-1, f, s);
+		//It take time around the product of the number of lengths of each size
+		blows(0,new ArrayList<Integer>(), key, f, s);
 		int k = mex(s);
 		h.put(f,k);
 		return k;
 	}
 	//blows recursively find the sg number of all possible
 	//subgraphs built from remove edges from the center
-	public static void blows(ArrayList<Integer> t, int n, Firework f, HashSet<Integer> s){
-		if(n==-1){
-			if(t.size()>0){
-				s.add(sg(f.blow(t)));
+	public static void blows(int n, ArrayList<Integer> t, Integer[] key, Firework f, HashSet<Integer> s){
+		if(n==key.length){
+			HashMap<Integer, Integer> d = new HashMap<Integer, Integer>();
+			boolean zero = true;
+			for(int i=0;i<t.size();i++){
+				if(t.get(i)>0){
+					zero = false;
+				}
+				d.put(key[i], t.get(i));
 			}
+			if(zero){
+				return;
+			}
+			s.add(sg(f.blow(d)));
 			return;
-		}	
-		t.add(n);
-		blows(t,n-1,f,s);
-		t.remove(t.size()-1);
-		blows(t,n-1,f,s);
+		}
+		for(int i=0;i<=f.h.get(key[n]);i++){
+			t.add(i);
+			blows(n+1, t, key, f, s);
+			t.remove(t.size()-1);
+		}
 	}
-	
 	public static int mex(HashSet<Integer> s){
-		Integer[] a = new Integer[s.size()];
-		s.toArray(a);
-		Arrays.sort(a);
-		for(int i=0;i<a.length;i++){
-			if(i!=a[i]){
+		for(int i=0;i<s.size();i++){
+			if(!s.contains(i)){
 				return i;
 			}
 		}
-		return a.length;
+		return s.size();
 	}
 }
