@@ -1,9 +1,6 @@
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.Collections;
-import java.util.HashMap;
-import java.util.HashSet;
-class Firework implements Comparable<Firework> {
+import java.util.*;
+import java.io.*;
+class Firework implements Comparable<Firework> , Serializable {
 	public HashMap<Integer, Integer> h;
 	public int hash; 
 	public ArrayList<Integer> a;
@@ -149,6 +146,39 @@ class Firework implements Comparable<Firework> {
 public class star {
 	public static HashMap<Firework, Integer> h = new HashMap<Firework, Integer>();
 	public static int count=0;
+
+	public static void load(){
+		String filename = "data.db";
+		if(!(new File(filename)).exists()){
+			return;
+		}
+		FileInputStream fis = null;
+		ObjectInputStream in = null;
+		try {
+			fis = new FileInputStream(filename);
+			in = new ObjectInputStream(fis);
+			h = (HashMap<Firework, Integer>) in.readObject();
+			in.close();
+		} catch (IOException ex) {
+			ex.printStackTrace();
+		} catch (ClassNotFoundException ex) {
+			ex.printStackTrace();
+		}
+	}
+	public static void save(){
+		String filename = "data.db";
+		FileOutputStream fos = null;
+		ObjectOutputStream out = null;
+		try {
+			fos = new FileOutputStream(filename);
+			out = new ObjectOutputStream(fos);
+			out.writeObject(h);
+			out.close();
+			//System.out.println("Object Persisted");
+		} catch (IOException ex) {
+			ex.printStackTrace();
+		}
+	}
 	public static void main(String[] args){
 		ArrayList<Integer> z = new ArrayList<Integer>();
 		for(int i=0;i<args.length;i++){
@@ -156,18 +186,22 @@ public class star {
 		}
 		h.put(new Firework(0), 0);
 		Firework f = new Firework(z);
+		//Get data
+		load();
+
 		//All the computation is done in this following line
 		//System.out.println(f);
 		sg(f); // <------this line, takes 99.999% of the running time
 		//all the rest is just process the results, which is stored in h
-		
+		save();
+		System.out.println(h.get(f));
 		//System.out.println(sg(f));
-		Firework[] F = new Firework[h.size()];
+		/* Firework[] F = new Firework[h.size()];
 		h.keySet().toArray(F);
 		Arrays.sort(F);
 		for(int i=0;i<F.length;i++){
 			System.out.println(F[i]+" "+h.get(F[i]));
-		}
+		}*/
 	}
 	//Find the sg number of a graph with many components
 	public static int sg(ArrayList<Firework> f){
