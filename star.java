@@ -180,50 +180,50 @@ public class star {
 		}
 	}
 	public static void main(String[] args){
-		/*
+
 		
-		h.put(new Firework(0), 0);*/
-		
-		//Get data
-		System.out.println("Loading...");
-		load();
-		System.out.println("Done!");
-		//All the computation is done in this following line
-		//System.out.println(f);
-		Scanner in = new Scanner(System.in);
-		while(in.hasNextLine()){
-			Scanner s = new Scanner(in.nextLine());
-			ArrayList<Integer> z = new ArrayList<Integer>();
-			boolean stop = false;
-			while(s.hasNextInt()){
-				int t = s.nextInt();
-				if(t<0){
-					stop = true;
+		if(args.length==0){
+			//Get data
+			System.out.println("Loading...");
+			load();
+			System.out.println("Done!");
+			//All the computation is done in this following line
+			//System.out.println(f);
+			Scanner in = new Scanner(System.in);
+			while(in.hasNextLine()){
+				Scanner s = new Scanner(in.nextLine());
+				ArrayList<Integer> z = new ArrayList<Integer>();
+				boolean stop = false;
+					while(s.hasNextInt()){
+						int t = s.nextInt();
+						if(t<0){
+							stop = true;
+						}
+						z.add(t);
+					}
+				if(stop){
+					break;
 				}
-				z.add(t);
+				if(z.size()==0){
+					continue;
+				}
+				Firework f = new Firework(z);
+				sg(f); // <------this line, takes 99.999% of the running time
+				System.out.println("> "+h.get(f));
 			}
-			if(stop){
-				break;
+			System.out.println("Saving...");
+			//all the rest is just process the results, which is stored in h
+			save();
+			System.out.println("Done!");
+		}else{
+			load();
+			Firework[] F = new Firework[h.size()];
+			h.keySet().toArray(F);
+			Arrays.sort(F);
+			for(int i=0;i<F.length;i++){
+				System.out.println(F[i]+" "+h.get(F[i]));
 			}
-			if(z.size()==0){
-				continue;
-			}
-			Firework f = new Firework(z);
-			sg(f); // <------this line, takes 99.999% of the running time
-			System.out.println("> "+h.get(f));
 		}
-		System.out.println("Saving...");
-		//all the rest is just process the results, which is stored in h
-		save();
-		System.out.println("Done!");
-		
-		//System.out.println(sg(f));
-		/* Firework[] F = new Firework[h.size()];
-		h.keySet().toArray(F);
-		Arrays.sort(F);
-		for(int i=0;i<F.length;i++){
-			System.out.println(F[i]+" "+h.get(F[i]));
-		}*/
 	}
 	//Find the sg number of a graph with many components
 	public static int sg(ArrayList<Firework> f){
