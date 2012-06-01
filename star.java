@@ -180,21 +180,38 @@ public class star {
 		}
 	}
 	public static void main(String[] args){
-		ArrayList<Integer> z = new ArrayList<Integer>();
-		for(int i=0;i<args.length;i++){
-			z.add(Integer.parseInt(args[i]));
-		}
-		h.put(new Firework(0), 0);
-		Firework f = new Firework(z);
+		/*
+		
+		h.put(new Firework(0), 0);*/
+		
 		//Get data
+		System.out.println("Loading...");
 		load();
-
+		System.out.println("Done!");
 		//All the computation is done in this following line
 		//System.out.println(f);
-		sg(f); // <------this line, takes 99.999% of the running time
+		Scanner in = new Scanner(System.in);
+		while(in.hasNextLine()){
+			Scanner s = new Scanner(in.nextLine());
+			ArrayList<Integer> z = new ArrayList<Integer>();
+			while(s.hasNextInt()){
+				z.add(s.nextInt());
+			}
+			if(z.size()==0){
+				continue;
+			}
+			if(z.get(0)==-1){
+				break;
+			}
+			Firework f = new Firework(z);
+			sg(f); // <------this line, takes 99.999% of the running time
+			System.out.println("> "+h.get(f));
+		}
+		System.out.println("Saving...");
 		//all the rest is just process the results, which is stored in h
 		save();
-		System.out.println(h.get(f));
+		System.out.println("Done!");
+		
 		//System.out.println(sg(f));
 		/* Firework[] F = new Firework[h.size()];
 		h.keySet().toArray(F);
