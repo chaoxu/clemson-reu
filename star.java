@@ -194,14 +194,19 @@ public class star {
 		while(in.hasNextLine()){
 			Scanner s = new Scanner(in.nextLine());
 			ArrayList<Integer> z = new ArrayList<Integer>();
+			boolean stop = false;
 			while(s.hasNextInt()){
-				z.add(s.nextInt());
+				int t = s.nextInt();
+				if(t<0){
+					stop = true;
+				}
+				z.add(t);
+			}
+			if(stop){
+				break;
 			}
 			if(z.size()==0){
 				continue;
-			}
-			if(z.get(0)==-1){
-				break;
 			}
 			Firework f = new Firework(z);
 			sg(f); // <------this line, takes 99.999% of the running time
