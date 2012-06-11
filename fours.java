@@ -22,8 +22,17 @@ public class fours {
 		h[0][0][0][0] = 0;
 		sg(n1,n2,n3,n4);
 		//output k,n2,n3,n4, 0<=k<=n1
-		for(int i1=0;i1<=n1;i1++){
+		/*for(int i1=0;i1<=n1;i1++){
 			System.out.println(h[i1][n2][n3][n4]);
+		}*/
+		for(int i4=0;i4<=n4;i4++){
+			for(int i3=0;i3<=n3;i3++){
+				for(int i2=0;i2<=n2;i2++){
+					for(int i1=0;i1<=n1;i1++){
+						System.out.println("["+i4+", "+i3+", "+i2+", "+i1+"] "+h[i1][i2][i3][i4]);
+					}
+				}
+			}
 		}
 	}
 	
@@ -81,9 +90,6 @@ public class fours {
 		h[n1][n2][n3][n4] = k;
 		return k;
 	}
-	
-	
-	
 	
 	public static int p(int i){
 		if(i<0){
