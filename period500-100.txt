@@ -1,0 +1,474 @@
+For a 1-star:
+No period found
+ 
+For a 2-star:
+Period found at position 72
+Length of the period is 12
+The period is 7 4 1 2 8 1 4 7 2 1 8 2 
+ 
+For a 3-star:
+Period found at position 71
+Length of the period is 12
+The period is 7 4 1 2 8 1 4 7 2 1 8 2 
+ 
+For a 4-star:
+Period found at position 153
+Length of the period is 12
+The period is 22 19 11 21 13 22 11 25 19 22 14 21 
+ 
+For a 5-star:
+Period found at position 142
+Length of the period is 12
+The period is 18 12 9 3 10 18 12 15 10 18 8 17 
+ 
+For a 6-star:
+Period found at position 143
+Length of the period is 12
+The period is 6 10 16 8 7 16 21 9 19 11 4 25 
+ 
+For a 7-star:
+Period found at position 287
+Length of the period is 12
+The period is 21 8 19 16 15 5 22 11 26 9 12 16 
+ 
+For a 8-star:
+Period found at position 287
+Length of the period is 12
+The period is 0 5 10 15 6 10 3 16 9 12 5 17 
+ 
+For a 9-star:
+Period found at position 216
+Length of the period is 12
+The period is 14 15 12 20 11 18 13 12 15 19 24 25 
+ 
+For a 10-star:
+Period found at position 113
+Length of the period is 12
+The period is 2 18 15 17 29 22 1 17 12 18 32 17 
+ 
+For a 11-star:
+Period found at position 142
+Length of the period is 12
+The period is 10 23 12 20 11 22 9 17 14 32 31 21 
+ 
+For a 12-star:
+Period found at position 191
+Length of the period is 12
+The period is 5 27 11 28 17 27 6 23 8 27 18 29 
+ 
+For a 13-star:
+Period found at position 170
+Length of the period is 12
+The period is 32 19 22 7 31 22 35 16 13 4 28 35 
+ 
+For a 14-star:
+Period found at position 114
+Length of the period is 12
+The period is 24 11 10 30 12 18 24 8 9 29 15 5 
+ 
+For a 15-star:
+Period found at position 153
+Length of the period is 12
+The period is 20 14 26 16 9 37 23 13 32 19 10 37 
+ 
+For a 16-star:
+Period found at position 287
+Length of the period is 12
+The period is 16 13 18 29 14 18 23 29 17 20 13 32 
+ 
+For a 17-star:
+Period found at position 263
+Length of the period is 12
+The period is 38 18 44 35 41 32 37 38 35 32 41 35 
+ 
+For a 18-star:
+Period found at position 234
+Length of the period is 12
+The period is 48 43 38 39 36 45 26 40 24 36 31 38 
+ 
+For a 19-star:
+Period found at position 328
+Length of the period is 12
+The period is 45 40 30 31 36 45 46 35 29 28 31 46 
+ 
+For a 20-star:
+Period found at position 287
+Length of the period is 12
+The period is 41 20 30 41 24 35 41 32 29 41 27 37 
+ 
+For a 21-star:
+Period found at position 179
+Length of the period is 12
+The period is 28 22 46 17 40 26 31 51 46 19 40 21 
+ 
+For a 22-star:
+Period found at position 287
+Length of the period is 12
+The period is 48 38 17 33 30 38 51 36 27 34 51 28 
+ 
+For a 23-star:
+Period found at position 299
+Length of the period is 12
+The period is 50 33 43 39 27 37 46 52 40 50 24 49 
+ 
+For a 24-star:
+Period found at position 228
+Length of the period is 12
+The period is 40 26 48 28 21 35 42 25 48 31 26 52 
+ 
+For a 25-star:
+Period found at position 256
+Length of the period is 12
+The period is 46 54 25 28 39 46 45 53 34 31 36 45 
+ 
+For a 26-star:
+Period found at position 257
+Length of the period is 12
+The period is 60 49 34 51 25 33 46 50 24 52 26 54 
+ 
+For a 27-star:
+Period found at position 216
+Length of the period is 12
+The period is 48 25 26 31 47 50 27 33 25 28 38 22 
+ 
+For a 28-star:
+Period found at position 144
+Length of the period is 12
+The period is 51 39 27 33 29 20 39 45 24 34 39 19 
+ 
+For a 29-star:
+Period found at position 263
+Length of the period is 12
+The period is 20 30 50 25 49 30 47 37 48 26 50 41 
+ 
+For a 30-star:
+Period found at position 179
+Length of the period is 12
+The period is 64 69 54 45 52 39 67 59 49 64 55 54 
+ 
+For a 31-star:
+Period found at position 228
+Length of the period is 12
+The period is 36 64 34 39 36 45 53 54 42 36 30 51 
+ 
+For a 32-star:
+Period found at position 245
+Length of the period is 12
+The period is 34 46 36 56 43 59 33 46 34 62 43 56 
+ 
+For a 33-star:
+Period found at position 262
+Length of the period is 12
+The period is 56 32 52 49 44 50 42 64 41 66 62 52 
+ 
+For a 34-star:
+Period found at position 228
+Length of the period is 12
+The period is 42 32 64 54 67 48 64 55 47 53 64 59 
+ 
+For a 35-star:
+Period found at position 328
+Length of the period is 12
+The period is 63 69 57 47 67 54 51 67 37 55 47 53 
+ 
+For a 36-star:
+Period found at position 329
+Length of the period is 12
+The period is 70 75 64 58 42 57 68 58 47 57 68 53 
+ 
+For a 37-star:
+Period found at position 188
+Length of the period is 12
+The period is 33 56 70 36 47 60 66 59 68 53 60 63 
+ 
+For a 38-star:
+Period found at position 299
+Length of the period is 12
+The period is 62 55 33 61 55 50 49 56 59 55 61 73 
+ 
+For a 39-star:
+Period found at position 257
+Length of the period is 12
+The period is 63 47 69 80 64 85 54 76 63 80 57 77 
+ 
+For a 40-star:
+Period found at position 328
+Length of the period is 12
+The period is 55 62 65 41 44 37 42 61 66 42 65 38 
+ 
+For a 41-star:
+Period found at position 286
+Length of the period is 12
+The period is 52 49 64 52 49 69 59 79 67 44 61 70 
+ 
+For a 42-star:
+Period found at position 257
+Length of the period is 12
+The period is 33 61 72 71 68 65 34 71 45 68 62 66 
+ 
+For a 43-star:
+Period found at position 286
+Length of the period is 12
+The period is 55 37 44 41 42 61 41 59 50 42 52 62 
+ 
+For a 44-star:
+Period found at position 256
+Length of the period is 12
+The period is 71 36 69 52 40 77 68 39 62 72 43 48 
+ 
+For a 45-star:
+Period found at position 233
+Length of the period is 12
+The period is 39 45 53 43 67 44 69 70 57 40 64 58 
+ 
+For a 46-star:
+Period found at position 293
+Length of the period is 12
+The period is 71 68 65 59 44 60 77 63 80 56 47 83 
+ 
+For a 47-star:
+Period found at position 329
+Length of the period is 12
+The period is 58 83 51 85 60 78 58 83 48 85 60 89 
+ 
+For a 48-star:
+Period found at position 214
+Length of the period is 12
+The period is 61 56 45 83 55 66 49 76 55 57 81 65 
+ 
+For a 49-star:
+Period found at position 262
+Length of the period is 12
+The period is 80 71 82 65 60 71 82 68 80 77 82 74 
+ 
+For a 50-star:
+Period found at position 329
+Length of the period is 12
+The period is 88 78 62 63 75 48 88 77 61 75 72 62 
+ 
+For a 51-star:
+Period found at position 257
+Length of the period is 12
+The period is 82 62 67 88 82 50 66 53 79 63 84 72 
+ 
+For a 52-star:
+Period found at position 299
+Length of the period is 12
+The period is 72 67 62 69 56 80 78 82 61 66 58 83 
+ 
+For a 53-star:
+Period found at position 244
+Length of the period is 12
+The period is 79 74 81 73 86 59 84 70 54 74 84 67 
+ 
+For a 54-star:
+Period found at position 276
+Length of the period is 12
+The period is 75 89 72 65 60 61 72 58 75 66 63 78 
+ 
+For a 55-star:
+Period found at position 188
+Length of the period is 12
+The period is 87 71 62 65 60 77 90 78 61 65 63 75 
+ 
+For a 56-star:
+Period found at position 282
+Length of the period is 12
+The period is 79 85 60 63 58 80 85 58 83 76 70 83 
+ 
+For a 57-star:
+Period found at position 293
+Length of the period is 12
+The period is 96 88 60 99 76 110 75 88 73 96 101 86 
+ 
+For a 58-star:
+Period found at position 322
+Length of the period is 12
+The period is 81 91 86 56 81 58 87 52 76 70 74 88 
+ 
+For a 59-star:
+Period found at position 206
+Length of the period is 12
+The period is 58 79 57 72 73 74 57 83 67 79 74 85 
+ 
+For a 60-star:
+Period found at position 345
+Length of the period is 12
+The period is 78 82 55 68 71 59 73 81 55 71 68 91 
+ 
+For a 61-star:
+Period found at position 264
+Length of the period is 12
+The period is 91 59 76 83 95 85 92 56 79 80 69 86 
+ 
+For a 62-star:
+Period found at position 274
+Length of the period is 12
+The period is 76 82 96 81 77 63 74 81 91 71 78 84 
+ 
+For a 63-star:
+Period found at position 286
+Length of the period is 12
+The period is 91 81 105 82 74 70 76 87 106 93 73 69 
+ 
+For a 64-star:
+Period found at position 328
+Length of the period is 12
+The period is 65 66 95 96 68 87 66 85 61 66 78 77 
+ 
+For a 65-star:
+Period found at position 244
+Length of the period is 12
+The period is 106 94 101 102 70 96 92 99 79 101 105 85 
+ 
+For a 66-star:
+Period found at position 345
+Length of the period is 12
+The period is 81 88 87 93 84 88 82 78 84 93 78 96 
+ 
+For a 67-star:
+Period found at position 329
+Length of the period is 12
+The period is 101 87 79 84 73 101 90 81 76 79 74 84 
+ 
+For a 68-star:
+Period found at position 301
+Length of the period is 12
+The period is 78 67 81 88 91 94 87 93 94 87 96 101 
+ 
+For a 69-star:
+Period found at position 269
+Length of the period is 12
+The period is 93 77 91 65 109 100 93 78 91 73 102 103 
+ 
+For a 70-star:
+Period found at position 322
+Length of the period is 12
+The period is 79 94 107 100 104 94 107 77 84 103 110 93 
+ 
+For a 71-star:
+Period found at position 313
+Length of the period is 12
+The period is 86 98 75 69 86 99 80 89 72 75 92 108 
+ 
+For a 72-star:
+Period found at position 253
+Length of the period is 12
+The period is 104 97 109 73 97 86 104 76 79 74 98 103 
+ 
+For a 73-star:
+Period found at position 300
+Length of the period is 12
+The period is 99 106 112 108 94 99 89 105 106 102 93 108 
+ 
+For a 74-star:
+Period found at position 282
+Length of the period is 12
+The period is 97 82 103 98 72 83 97 107 100 97 75 80 
+ 
+For a 75-star:
+Period found at position 358
+Length of the period is 12
+The period is 89 115 72 96 86 99 102 112 96 99 92 112 
+ 
+For a 76-star:
+Period found at position 328
+Length of the period is 12
+The period is 124 115 102 84 101 91 99 128 120 75 99 88 
+ 
+For a 77-star:
+Period found at position 414
+Length of the period is 12
+The period is 105 94 112 101 77 112 87 93 101 80 118 121 
+ 
+For a 78-star:
+No period found
+ 
+For a 79-star:
+Period found at position 313
+Length of the period is 12
+The period is 98 110 86 85 90 100 83 72 85 86 100 92 
+ 
+For a 80-star:
+Period found at position 351
+Length of the period is 12
+The period is 92 93 113 108 81 97 116 94 113 100 90 114 
+ 
+For a 81-star:
+No period found
+ 
+For a 82-star:
+Period found at position 422
+Length of the period is 12
+The period is 109 95 111 126 115 107 118 117 104 126 98 128 
+ 
+For a 83-star:
+Period found at position 373
+Length of the period is 12
+The period is 92 95 111 101 105 112 95 114 108 95 105 115 
+ 
+For a 84-star:
+Period found at position 289
+Length of the period is 12
+The period is 94 102 112 97 107 103 108 122 90 98 84 112 
+ 
+For a 85-star:
+Period found at position 328
+Length of the period is 12
+The period is 104 116 85 100 90 110 107 119 94 103 89 126 
+ 
+For a 86-star:
+No period found
+ 
+For a 87-star:
+No period found
+ 
+For a 88-star:
+No period found
+ 
+For a 89-star:
+No period found
+ 
+For a 90-star:
+Period found at position 435
+Length of the period is 12
+The period is 103 121 124 118 98 117 118 131 127 117 88 118 
+ 
+For a 91-star:
+Period found at position 372
+Length of the period is 12
+The period is 124 118 127 128 100 122 98 117 124 92 103 117 
+ 
+For a 92-star:
+Period found at position 401
+Length of the period is 12
+The period is 106 121 88 105 115 106 97 121 117 124 93 117 
+ 
+For a 93-star:
+No period found
+ 
+For a 94-star:
+Period found at position 414
+Length of the period is 12
+The period is 122 129 125 97 126 129 136 130 126 119 125 130 
+ 
+For a 95-star:
+No period found
+ 
+For a 96-star:
+No period found
+ 
+For a 97-star:
+Period found at position 413
+Length of the period is 12
+The period is 103 149 125 147 132 141 135 118 129 108 135 142 
+ 
+For a 98-star:
+No period found
+ 
+For a 99-star:
+No period found
+ 
+For a 100-star:
+No period found
+ 

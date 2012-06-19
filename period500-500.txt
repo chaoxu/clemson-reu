@@ -1,0 +1,1684 @@
+For a 1-star:
+No period found
+ 
+For a 2-star:
+Period found at position 72
+Length of the period is 12
+The period is 7 4 1 2 8 1 4 7 2 1 8 2 
+ 
+For a 3-star:
+Period found at position 71
+Length of the period is 12
+The period is 7 4 1 2 8 1 4 7 2 1 8 2 
+ 
+For a 4-star:
+Period found at position 153
+Length of the period is 12
+The period is 22 19 11 21 13 22 11 25 19 22 14 21 
+ 
+For a 5-star:
+Period found at position 142
+Length of the period is 12
+The period is 18 12 9 3 10 18 12 15 10 18 8 17 
+ 
+For a 6-star:
+Period found at position 143
+Length of the period is 12
+The period is 6 10 16 8 7 16 21 9 19 11 4 25 
+ 
+For a 7-star:
+Period found at position 287
+Length of the period is 12
+The period is 21 8 19 16 15 5 22 11 26 9 12 16 
+ 
+For a 8-star:
+Period found at position 287
+Length of the period is 12
+The period is 0 5 10 15 6 10 3 16 9 12 5 17 
+ 
+For a 9-star:
+Period found at position 216
+Length of the period is 12
+The period is 14 15 12 20 11 18 13 12 15 19 24 25 
+ 
+For a 10-star:
+Period found at position 113
+Length of the period is 12
+The period is 2 18 15 17 29 22 1 17 12 18 32 17 
+ 
+For a 11-star:
+Period found at position 142
+Length of the period is 12
+The period is 10 23 12 20 11 22 9 17 14 32 31 21 
+ 
+For a 12-star:
+Period found at position 191
+Length of the period is 12
+The period is 5 27 11 28 17 27 6 23 8 27 18 29 
+ 
+For a 13-star:
+Period found at position 170
+Length of the period is 12
+The period is 32 19 22 7 31 22 35 16 13 4 28 35 
+ 
+For a 14-star:
+Period found at position 114
+Length of the period is 12
+The period is 24 11 10 30 12 18 24 8 9 29 15 5 
+ 
+For a 15-star:
+Period found at position 153
+Length of the period is 12
+The period is 20 14 26 16 9 37 23 13 32 19 10 37 
+ 
+For a 16-star:
+Period found at position 287
+Length of the period is 12
+The period is 16 13 18 29 14 18 23 29 17 20 13 32 
+ 
+For a 17-star:
+Period found at position 263
+Length of the period is 12
+The period is 38 18 44 35 41 32 37 38 35 32 41 35 
+ 
+For a 18-star:
+Period found at position 234
+Length of the period is 12
+The period is 48 43 38 39 36 45 26 40 24 36 31 38 
+ 
+For a 19-star:
+Period found at position 328
+Length of the period is 12
+The period is 45 40 30 31 36 45 46 35 29 28 31 46 
+ 
+For a 20-star:
+Period found at position 287
+Length of the period is 12
+The period is 41 20 30 41 24 35 41 32 29 41 27 37 
+ 
+For a 21-star:
+Period found at position 179
+Length of the period is 12
+The period is 28 22 46 17 40 26 31 51 46 19 40 21 
+ 
+For a 22-star:
+Period found at position 287
+Length of the period is 12
+The period is 48 38 17 33 30 38 51 36 27 34 51 28 
+ 
+For a 23-star:
+Period found at position 299
+Length of the period is 12
+The period is 50 33 43 39 27 37 46 52 40 50 24 49 
+ 
+For a 24-star:
+Period found at position 228
+Length of the period is 12
+The period is 40 26 48 28 21 35 42 25 48 31 26 52 
+ 
+For a 25-star:
+Period found at position 256
+Length of the period is 12
+The period is 46 54 25 28 39 46 45 53 34 31 36 45 
+ 
+For a 26-star:
+Period found at position 257
+Length of the period is 12
+The period is 60 49 34 51 25 33 46 50 24 52 26 54 
+ 
+For a 27-star:
+Period found at position 216
+Length of the period is 12
+The period is 48 25 26 31 47 50 27 33 25 28 38 22 
+ 
+For a 28-star:
+Period found at position 144
+Length of the period is 12
+The period is 51 39 27 33 29 20 39 45 24 34 39 19 
+ 
+For a 29-star:
+Period found at position 263
+Length of the period is 12
+The period is 20 30 50 25 49 30 47 37 48 26 50 41 
+ 
+For a 30-star:
+Period found at position 179
+Length of the period is 12
+The period is 64 69 54 45 52 39 67 59 49 64 55 54 
+ 
+For a 31-star:
+Period found at position 228
+Length of the period is 12
+The period is 36 64 34 39 36 45 53 54 42 36 30 51 
+ 
+For a 32-star:
+Period found at position 245
+Length of the period is 12
+The period is 34 46 36 56 43 59 33 46 34 62 43 56 
+ 
+For a 33-star:
+Period found at position 262
+Length of the period is 12
+The period is 56 32 52 49 44 50 42 64 41 66 62 52 
+ 
+For a 34-star:
+Period found at position 228
+Length of the period is 12
+The period is 42 32 64 54 67 48 64 55 47 53 64 59 
+ 
+For a 35-star:
+Period found at position 328
+Length of the period is 12
+The period is 63 69 57 47 67 54 51 67 37 55 47 53 
+ 
+For a 36-star:
+Period found at position 329
+Length of the period is 12
+The period is 70 75 64 58 42 57 68 58 47 57 68 53 
+ 
+For a 37-star:
+Period found at position 188
+Length of the period is 12
+The period is 33 56 70 36 47 60 66 59 68 53 60 63 
+ 
+For a 38-star:
+Period found at position 299
+Length of the period is 12
+The period is 62 55 33 61 55 50 49 56 59 55 61 73 
+ 
+For a 39-star:
+Period found at position 257
+Length of the period is 12
+The period is 63 47 69 80 64 85 54 76 63 80 57 77 
+ 
+For a 40-star:
+Period found at position 328
+Length of the period is 12
+The period is 55 62 65 41 44 37 42 61 66 42 65 38 
+ 
+For a 41-star:
+Period found at position 286
+Length of the period is 12
+The period is 52 49 64 52 49 69 59 79 67 44 61 70 
+ 
+For a 42-star:
+Period found at position 257
+Length of the period is 12
+The period is 33 61 72 71 68 65 34 71 45 68 62 66 
+ 
+For a 43-star:
+Period found at position 286
+Length of the period is 12
+The period is 55 37 44 41 42 61 41 59 50 42 52 62 
+ 
+For a 44-star:
+Period found at position 256
+Length of the period is 12
+The period is 71 36 69 52 40 77 68 39 62 72 43 48 
+ 
+For a 45-star:
+Period found at position 233
+Length of the period is 12
+The period is 39 45 53 43 67 44 69 70 57 40 64 58 
+ 
+For a 46-star:
+Period found at position 293
+Length of the period is 12
+The period is 71 68 65 59 44 60 77 63 80 56 47 83 
+ 
+For a 47-star:
+Period found at position 329
+Length of the period is 12
+The period is 58 83 51 85 60 78 58 83 48 85 60 89 
+ 
+For a 48-star:
+Period found at position 214
+Length of the period is 12
+The period is 61 56 45 83 55 66 49 76 55 57 81 65 
+ 
+For a 49-star:
+Period found at position 262
+Length of the period is 12
+The period is 80 71 82 65 60 71 82 68 80 77 82 74 
+ 
+For a 50-star:
+Period found at position 329
+Length of the period is 12
+The period is 88 78 62 63 75 48 88 77 61 75 72 62 
+ 
+For a 51-star:
+Period found at position 257
+Length of the period is 12
+The period is 82 62 67 88 82 50 66 53 79 63 84 72 
+ 
+For a 52-star:
+Period found at position 299
+Length of the period is 12
+The period is 72 67 62 69 56 80 78 82 61 66 58 83 
+ 
+For a 53-star:
+Period found at position 244
+Length of the period is 12
+The period is 79 74 81 73 86 59 84 70 54 74 84 67 
+ 
+For a 54-star:
+Period found at position 276
+Length of the period is 12
+The period is 75 89 72 65 60 61 72 58 75 66 63 78 
+ 
+For a 55-star:
+Period found at position 188
+Length of the period is 12
+The period is 87 71 62 65 60 77 90 78 61 65 63 75 
+ 
+For a 56-star:
+Period found at position 282
+Length of the period is 12
+The period is 79 85 60 63 58 80 85 58 83 76 70 83 
+ 
+For a 57-star:
+Period found at position 293
+Length of the period is 12
+The period is 96 88 60 99 76 110 75 88 73 96 101 86 
+ 
+For a 58-star:
+Period found at position 322
+Length of the period is 12
+The period is 81 91 86 56 81 58 87 52 76 70 74 88 
+ 
+For a 59-star:
+Period found at position 206
+Length of the period is 12
+The period is 58 79 57 72 73 74 57 83 67 79 74 85 
+ 
+For a 60-star:
+Period found at position 345
+Length of the period is 12
+The period is 78 82 55 68 71 59 73 81 55 71 68 91 
+ 
+For a 61-star:
+Period found at position 264
+Length of the period is 12
+The period is 91 59 76 83 95 85 92 56 79 80 69 86 
+ 
+For a 62-star:
+Period found at position 274
+Length of the period is 12
+The period is 76 82 96 81 77 63 74 81 91 71 78 84 
+ 
+For a 63-star:
+Period found at position 286
+Length of the period is 12
+The period is 91 81 105 82 74 70 76 87 106 93 73 69 
+ 
+For a 64-star:
+Period found at position 328
+Length of the period is 12
+The period is 65 66 95 96 68 87 66 85 61 66 78 77 
+ 
+For a 65-star:
+Period found at position 244
+Length of the period is 12
+The period is 106 94 101 102 70 96 92 99 79 101 105 85 
+ 
+For a 66-star:
+Period found at position 345
+Length of the period is 12
+The period is 81 88 87 93 84 88 82 78 84 93 78 96 
+ 
+For a 67-star:
+Period found at position 329
+Length of the period is 12
+The period is 101 87 79 84 73 101 90 81 76 79 74 84 
+ 
+For a 68-star:
+Period found at position 301
+Length of the period is 12
+The period is 78 67 81 88 91 94 87 93 94 87 96 101 
+ 
+For a 69-star:
+Period found at position 269
+Length of the period is 12
+The period is 93 77 91 65 109 100 93 78 91 73 102 103 
+ 
+For a 70-star:
+Period found at position 322
+Length of the period is 12
+The period is 79 94 107 100 104 94 107 77 84 103 110 93 
+ 
+For a 71-star:
+Period found at position 313
+Length of the period is 12
+The period is 86 98 75 69 86 99 80 89 72 75 92 108 
+ 
+For a 72-star:
+Period found at position 253
+Length of the period is 12
+The period is 104 97 109 73 97 86 104 76 79 74 98 103 
+ 
+For a 73-star:
+Period found at position 300
+Length of the period is 12
+The period is 99 106 112 108 94 99 89 105 106 102 93 108 
+ 
+For a 74-star:
+Period found at position 282
+Length of the period is 12
+The period is 97 82 103 98 72 83 97 107 100 97 75 80 
+ 
+For a 75-star:
+Period found at position 358
+Length of the period is 12
+The period is 89 115 72 96 86 99 102 112 96 99 92 112 
+ 
+For a 76-star:
+Period found at position 328
+Length of the period is 12
+The period is 124 115 102 84 101 91 99 128 120 75 99 88 
+ 
+For a 77-star:
+Period found at position 414
+Length of the period is 12
+The period is 105 94 112 101 77 112 87 93 101 80 118 121 
+ 
+For a 78-star:
+No period found
+ 
+For a 79-star:
+Period found at position 313
+Length of the period is 12
+The period is 98 110 86 85 90 100 83 72 85 86 100 92 
+ 
+For a 80-star:
+Period found at position 351
+Length of the period is 12
+The period is 92 93 113 108 81 97 116 94 113 100 90 114 
+ 
+For a 81-star:
+No period found
+ 
+For a 82-star:
+Period found at position 422
+Length of the period is 12
+The period is 109 95 111 126 115 107 118 117 104 126 98 128 
+ 
+For a 83-star:
+Period found at position 373
+Length of the period is 12
+The period is 92 95 111 101 105 112 95 114 108 95 105 115 
+ 
+For a 84-star:
+Period found at position 289
+Length of the period is 12
+The period is 94 102 112 97 107 103 108 122 90 98 84 112 
+ 
+For a 85-star:
+Period found at position 328
+Length of the period is 12
+The period is 104 116 85 100 90 110 107 119 94 103 89 126 
+ 
+For a 86-star:
+No period found
+ 
+For a 87-star:
+No period found
+ 
+For a 88-star:
+No period found
+ 
+For a 89-star:
+No period found
+ 
+For a 90-star:
+Period found at position 435
+Length of the period is 12
+The period is 103 121 124 118 98 117 118 131 127 117 88 118 
+ 
+For a 91-star:
+Period found at position 372
+Length of the period is 12
+The period is 124 118 127 128 100 122 98 117 124 92 103 117 
+ 
+For a 92-star:
+Period found at position 401
+Length of the period is 12
+The period is 106 121 88 105 115 106 97 121 117 124 93 117 
+ 
+For a 93-star:
+No period found
+ 
+For a 94-star:
+Period found at position 414
+Length of the period is 12
+The period is 122 129 125 97 126 129 136 130 126 119 125 130 
+ 
+For a 95-star:
+No period found
+ 
+For a 96-star:
+No period found
+ 
+For a 97-star:
+Period found at position 413
+Length of the period is 12
+The period is 103 149 125 147 132 141 135 118 129 108 135 142 
+ 
+For a 98-star:
+No period found
+ 
+For a 99-star:
+No period found
+ 
+For a 100-star:
+No period found
+ 
+For a 101-star:
+No period found
+ 
+For a 102-star:
+Period found at position 439
+Length of the period is 12
+The period is 118 146 105 139 110 147 133 142 139 114 149 144 
+ 
+For a 103-star:
+No period found
+ 
+For a 104-star:
+No period found
+ 
+For a 105-star:
+No period found
+ 
+For a 106-star:
+No period found
+ 
+For a 107-star:
+No period found
+ 
+For a 108-star:
+No period found
+ 
+For a 109-star:
+No period found
+ 
+For a 110-star:
+Period found at position 411
+Length of the period is 12
+The period is 110 158 141 156 126 127 128 156 114 135 125 138 
+ 
+For a 111-star:
+No period found
+ 
+For a 112-star:
+No period found
+ 
+For a 113-star:
+No period found
+ 
+For a 114-star:
+No period found
+ 
+For a 115-star:
+No period found
+ 
+For a 116-star:
+Period found at position 407
+Length of the period is 12
+The period is 136 129 122 135 121 136 123 130 135 132 127 118 
+ 
+For a 117-star:
+No period found
+ 
+For a 118-star:
+No period found
+ 
+For a 119-star:
+No period found
+ 
+For a 120-star:
+No period found
+ 
+For a 121-star:
+No period found
+ 
+For a 122-star:
+No period found
+ 
+For a 123-star:
+No period found
+ 
+For a 124-star:
+No period found
+ 
+For a 125-star:
+No period found
+ 
+For a 126-star:
+No period found
+ 
+For a 127-star:
+No period found
+ 
+For a 128-star:
+No period found
+ 
+For a 129-star:
+No period found
+ 
+For a 130-star:
+Period found at position 439
+Length of the period is 12
+The period is 162 167 164 157 167 146 141 164 148 171 146 152 
+ 
+For a 131-star:
+No period found
+ 
+For a 132-star:
+No period found
+ 
+For a 133-star:
+No period found
+ 
+For a 134-star:
+No period found
+ 
+For a 135-star:
+No period found
+ 
+For a 136-star:
+Period found at position 431
+Length of the period is 12
+The period is 164 168 151 143 140 164 167 171 148 140 133 159 
+ 
+For a 137-star:
+No period found
+ 
+For a 138-star:
+No period found
+ 
+For a 139-star:
+No period found
+ 
+For a 140-star:
+No period found
+ 
+For a 141-star:
+No period found
+ 
+For a 142-star:
+No period found
+ 
+For a 143-star:
+No period found
+ 
+For a 144-star:
+No period found
+ 
+For a 145-star:
+No period found
+ 
+For a 146-star:
+No period found
+ 
+For a 147-star:
+No period found
+ 
+For a 148-star:
+No period found
+ 
+For a 149-star:
+No period found
+ 
+For a 150-star:
+No period found
+ 
+For a 151-star:
+No period found
+ 
+For a 152-star:
+No period found
+ 
+For a 153-star:
+No period found
+ 
+For a 154-star:
+No period found
+ 
+For a 155-star:
+No period found
+ 
+For a 156-star:
+No period found
+ 
+For a 157-star:
+No period found
+ 
+For a 158-star:
+No period found
+ 
+For a 159-star:
+No period found
+ 
+For a 160-star:
+No period found
+ 
+For a 161-star:
+No period found
+ 
+For a 162-star:
+No period found
+ 
+For a 163-star:
+No period found
+ 
+For a 164-star:
+No period found
+ 
+For a 165-star:
+No period found
+ 
+For a 166-star:
+No period found
+ 
+For a 167-star:
+No period found
+ 
+For a 168-star:
+No period found
+ 
+For a 169-star:
+No period found
+ 
+For a 170-star:
+No period found
+ 
+For a 171-star:
+No period found
+ 
+For a 172-star:
+No period found
+ 
+For a 173-star:
+No period found
+ 
+For a 174-star:
+No period found
+ 
+For a 175-star:
+No period found
+ 
+For a 176-star:
+No period found
+ 
+For a 177-star:
+No period found
+ 
+For a 178-star:
+No period found
+ 
+For a 179-star:
+No period found
+ 
+For a 180-star:
+No period found
+ 
+For a 181-star:
+No period found
+ 
+For a 182-star:
+No period found
+ 
+For a 183-star:
+No period found
+ 
+For a 184-star:
+No period found
+ 
+For a 185-star:
+No period found
+ 
+For a 186-star:
+No period found
+ 
+For a 187-star:
+No period found
+ 
+For a 188-star:
+No period found
+ 
+For a 189-star:
+No period found
+ 
+For a 190-star:
+No period found
+ 
+For a 191-star:
+No period found
+ 
+For a 192-star:
+No period found
+ 
+For a 193-star:
+No period found
+ 
+For a 194-star:
+No period found
+ 
+For a 195-star:
+No period found
+ 
+For a 196-star:
+No period found
+ 
+For a 197-star:
+No period found
+ 
+For a 198-star:
+No period found
+ 
+For a 199-star:
+No period found
+ 
+For a 200-star:
+No period found
+ 
+For a 201-star:
+No period found
+ 
+For a 202-star:
+No period found
+ 
+For a 203-star:
+No period found
+ 
+For a 204-star:
+No period found
+ 
+For a 205-star:
+No period found
+ 
+For a 206-star:
+No period found
+ 
+For a 207-star:
+No period found
+ 
+For a 208-star:
+No period found
+ 
+For a 209-star:
+No period found
+ 
+For a 210-star:
+No period found
+ 
+For a 211-star:
+No period found
+ 
+For a 212-star:
+No period found
+ 
+For a 213-star:
+No period found
+ 
+For a 214-star:
+No period found
+ 
+For a 215-star:
+No period found
+ 
+For a 216-star:
+No period found
+ 
+For a 217-star:
+No period found
+ 
+For a 218-star:
+No period found
+ 
+For a 219-star:
+No period found
+ 
+For a 220-star:
+No period found
+ 
+For a 221-star:
+No period found
+ 
+For a 222-star:
+No period found
+ 
+For a 223-star:
+No period found
+ 
+For a 224-star:
+No period found
+ 
+For a 225-star:
+No period found
+ 
+For a 226-star:
+No period found
+ 
+For a 227-star:
+No period found
+ 
+For a 228-star:
+No period found
+ 
+For a 229-star:
+No period found
+ 
+For a 230-star:
+No period found
+ 
+For a 231-star:
+No period found
+ 
+For a 232-star:
+No period found
+ 
+For a 233-star:
+No period found
+ 
+For a 234-star:
+No period found
+ 
+For a 235-star:
+No period found
+ 
+For a 236-star:
+No period found
+ 
+For a 237-star:
+No period found
+ 
+For a 238-star:
+No period found
+ 
+For a 239-star:
+No period found
+ 
+For a 240-star:
+No period found
+ 
+For a 241-star:
+No period found
+ 
+For a 242-star:
+No period found
+ 
+For a 243-star:
+No period found
+ 
+For a 244-star:
+No period found
+ 
+For a 245-star:
+No period found
+ 
+For a 246-star:
+No period found
+ 
+For a 247-star:
+No period found
+ 
+For a 248-star:
+No period found
+ 
+For a 249-star:
+No period found
+ 
+For a 250-star:
+No period found
+ 
+For a 251-star:
+No period found
+ 
+For a 252-star:
+No period found
+ 
+For a 253-star:
+No period found
+ 
+For a 254-star:
+No period found
+ 
+For a 255-star:
+No period found
+ 
+For a 256-star:
+No period found
+ 
+For a 257-star:
+No period found
+ 
+For a 258-star:
+No period found
+ 
+For a 259-star:
+No period found
+ 
+For a 260-star:
+No period found
+ 
+For a 261-star:
+No period found
+ 
+For a 262-star:
+No period found
+ 
+For a 263-star:
+No period found
+ 
+For a 264-star:
+No period found
+ 
+For a 265-star:
+No period found
+ 
+For a 266-star:
+No period found
+ 
+For a 267-star:
+No period found
+ 
+For a 268-star:
+No period found
+ 
+For a 269-star:
+No period found
+ 
+For a 270-star:
+No period found
+ 
+For a 271-star:
+No period found
+ 
+For a 272-star:
+No period found
+ 
+For a 273-star:
+No period found
+ 
+For a 274-star:
+No period found
+ 
+For a 275-star:
+No period found
+ 
+For a 276-star:
+No period found
+ 
+For a 277-star:
+No period found
+ 
+For a 278-star:
+No period found
+ 
+For a 279-star:
+No period found
+ 
+For a 280-star:
+No period found
+ 
+For a 281-star:
+No period found
+ 
+For a 282-star:
+No period found
+ 
+For a 283-star:
+No period found
+ 
+For a 284-star:
+No period found
+ 
+For a 285-star:
+No period found
+ 
+For a 286-star:
+No period found
+ 
+For a 287-star:
+No period found
+ 
+For a 288-star:
+No period found
+ 
+For a 289-star:
+No period found
+ 
+For a 290-star:
+No period found
+ 
+For a 291-star:
+No period found
+ 
+For a 292-star:
+No period found
+ 
+For a 293-star:
+No period found
+ 
+For a 294-star:
+No period found
+ 
+For a 295-star:
+No period found
+ 
+For a 296-star:
+No period found
+ 
+For a 297-star:
+No period found
+ 
+For a 298-star:
+No period found
+ 
+For a 299-star:
+No period found
+ 
+For a 300-star:
+No period found
+ 
+For a 301-star:
+No period found
+ 
+For a 302-star:
+No period found
+ 
+For a 303-star:
+No period found
+ 
+For a 304-star:
+No period found
+ 
+For a 305-star:
+No period found
+ 
+For a 306-star:
+No period found
+ 
+For a 307-star:
+No period found
+ 
+For a 308-star:
+No period found
+ 
+For a 309-star:
+No period found
+ 
+For a 310-star:
+No period found
+ 
+For a 311-star:
+No period found
+ 
+For a 312-star:
+No period found
+ 
+For a 313-star:
+No period found
+ 
+For a 314-star:
+No period found
+ 
+For a 315-star:
+No period found
+ 
+For a 316-star:
+No period found
+ 
+For a 317-star:
+No period found
+ 
+For a 318-star:
+No period found
+ 
+For a 319-star:
+No period found
+ 
+For a 320-star:
+No period found
+ 
+For a 321-star:
+No period found
+ 
+For a 322-star:
+No period found
+ 
+For a 323-star:
+No period found
+ 
+For a 324-star:
+No period found
+ 
+For a 325-star:
+No period found
+ 
+For a 326-star:
+No period found
+ 
+For a 327-star:
+No period found
+ 
+For a 328-star:
+No period found
+ 
+For a 329-star:
+No period found
+ 
+For a 330-star:
+No period found
+ 
+For a 331-star:
+No period found
+ 
+For a 332-star:
+No period found
+ 
+For a 333-star:
+No period found
+ 
+For a 334-star:
+No period found
+ 
+For a 335-star:
+No period found
+ 
+For a 336-star:
+No period found
+ 
+For a 337-star:
+No period found
+ 
+For a 338-star:
+No period found
+ 
+For a 339-star:
+No period found
+ 
+For a 340-star:
+No period found
+ 
+For a 341-star:
+No period found
+ 
+For a 342-star:
+No period found
+ 
+For a 343-star:
+No period found
+ 
+For a 344-star:
+No period found
+ 
+For a 345-star:
+No period found
+ 
+For a 346-star:
+No period found
+ 
+For a 347-star:
+No period found
+ 
+For a 348-star:
+No period found
+ 
+For a 349-star:
+No period found
+ 
+For a 350-star:
+No period found
+ 
+For a 351-star:
+No period found
+ 
+For a 352-star:
+No period found
+ 
+For a 353-star:
+No period found
+ 
+For a 354-star:
+No period found
+ 
+For a 355-star:
+No period found
+ 
+For a 356-star:
+No period found
+ 
+For a 357-star:
+No period found
+ 
+For a 358-star:
+No period found
+ 
+For a 359-star:
+No period found
+ 
+For a 360-star:
+No period found
+ 
+For a 361-star:
+No period found
+ 
+For a 362-star:
+No period found
+ 
+For a 363-star:
+No period found
+ 
+For a 364-star:
+No period found
+ 
+For a 365-star:
+No period found
+ 
+For a 366-star:
+No period found
+ 
+For a 367-star:
+No period found
+ 
+For a 368-star:
+No period found
+ 
+For a 369-star:
+No period found
+ 
+For a 370-star:
+No period found
+ 
+For a 371-star:
+No period found
+ 
+For a 372-star:
+No period found
+ 
+For a 373-star:
+No period found
+ 
+For a 374-star:
+No period found
+ 
+For a 375-star:
+No period found
+ 
+For a 376-star:
+No period found
+ 
+For a 377-star:
+No period found
+ 
+For a 378-star:
+No period found
+ 
+For a 379-star:
+No period found
+ 
+For a 380-star:
+No period found
+ 
+For a 381-star:
+No period found
+ 
+For a 382-star:
+No period found
+ 
+For a 383-star:
+No period found
+ 
+For a 384-star:
+No period found
+ 
+For a 385-star:
+No period found
+ 
+For a 386-star:
+No period found
+ 
+For a 387-star:
+No period found
+ 
+For a 388-star:
+No period found
+ 
+For a 389-star:
+No period found
+ 
+For a 390-star:
+No period found
+ 
+For a 391-star:
+No period found
+ 
+For a 392-star:
+No period found
+ 
+For a 393-star:
+No period found
+ 
+For a 394-star:
+No period found
+ 
+For a 395-star:
+No period found
+ 
+For a 396-star:
+No period found
+ 
+For a 397-star:
+No period found
+ 
+For a 398-star:
+No period found
+ 
+For a 399-star:
+No period found
+ 
+For a 400-star:
+No period found
+ 
+For a 401-star:
+No period found
+ 
+For a 402-star:
+No period found
+ 
+For a 403-star:
+No period found
+ 
+For a 404-star:
+No period found
+ 
+For a 405-star:
+No period found
+ 
+For a 406-star:
+No period found
+ 
+For a 407-star:
+No period found
+ 
+For a 408-star:
+No period found
+ 
+For a 409-star:
+No period found
+ 
+For a 410-star:
+No period found
+ 
+For a 411-star:
+No period found
+ 
+For a 412-star:
+No period found
+ 
+For a 413-star:
+No period found
+ 
+For a 414-star:
+No period found
+ 
+For a 415-star:
+No period found
+ 
+For a 416-star:
+No period found
+ 
+For a 417-star:
+No period found
+ 
+For a 418-star:
+No period found
+ 
+For a 419-star:
+No period found
+ 
+For a 420-star:
+No period found
+ 
+For a 421-star:
+No period found
+ 
+For a 422-star:
+No period found
+ 
+For a 423-star:
+No period found
+ 
+For a 424-star:
+No period found
+ 
+For a 425-star:
+No period found
+ 
+For a 426-star:
+No period found
+ 
+For a 427-star:
+No period found
+ 
+For a 428-star:
+No period found
+ 
+For a 429-star:
+No period found
+ 
+For a 430-star:
+No period found
+ 
+For a 431-star:
+No period found
+ 
+For a 432-star:
+No period found
+ 
+For a 433-star:
+No period found
+ 
+For a 434-star:
+No period found
+ 
+For a 435-star:
+No period found
+ 
+For a 436-star:
+No period found
+ 
+For a 437-star:
+No period found
+ 
+For a 438-star:
+No period found
+ 
+For a 439-star:
+No period found
+ 
+For a 440-star:
+No period found
+ 
+For a 441-star:
+No period found
+ 
+For a 442-star:
+No period found
+ 
+For a 443-star:
+No period found
+ 
+For a 444-star:
+No period found
+ 
+For a 445-star:
+No period found
+ 
+For a 446-star:
+No period found
+ 
+For a 447-star:
+No period found
+ 
+For a 448-star:
+No period found
+ 
+For a 449-star:
+No period found
+ 
+For a 450-star:
+No period found
+ 
+For a 451-star:
+No period found
+ 
+For a 452-star:
+No period found
+ 
+For a 453-star:
+No period found
+ 
+For a 454-star:
+No period found
+ 
+For a 455-star:
+No period found
+ 
+For a 456-star:
+No period found
+ 
+For a 457-star:
+No period found
+ 
+For a 458-star:
+No period found
+ 
+For a 459-star:
+No period found
+ 
+For a 460-star:
+No period found
+ 
+For a 461-star:
+No period found
+ 
+For a 462-star:
+No period found
+ 
+For a 463-star:
+No period found
+ 
+For a 464-star:
+No period found
+ 
+For a 465-star:
+No period found
+ 
+For a 466-star:
+No period found
+ 
+For a 467-star:
+No period found
+ 
+For a 468-star:
+No period found
+ 
+For a 469-star:
+No period found
+ 
+For a 470-star:
+No period found
+ 
+For a 471-star:
+No period found
+ 
+For a 472-star:
+No period found
+ 
+For a 473-star:
+No period found
+ 
+For a 474-star:
+No period found
+ 
+For a 475-star:
+No period found
+ 
+For a 476-star:
+No period found
+ 
+For a 477-star:
+No period found
+ 
+For a 478-star:
+No period found
+ 
+For a 479-star:
+No period found
+ 
+For a 480-star:
+No period found
+ 
+For a 481-star:
+No period found
+ 
+For a 482-star:
+No period found
+ 
+For a 483-star:
+No period found
+ 
+For a 484-star:
+No period found
+ 
+For a 485-star:
+No period found
+ 
+For a 486-star:
+No period found
+ 
+For a 487-star:
+No period found
+ 
+For a 488-star:
+No period found
+ 
+For a 489-star:
+No period found
+ 
+For a 490-star:
+No period found
+ 
+For a 491-star:
+No period found
+ 
+For a 492-star:
+No period found
+ 
+For a 493-star:
+No period found
+ 
+For a 494-star:
+No period found
+ 
+For a 495-star:
+No period found
+ 
+For a 496-star:
+No period found
+ 
+For a 497-star:
+No period found
+ 
+For a 498-star:
+No period found
+ 
+For a 499-star:
+No period found
+ 
+For a 500-star:
+No period found
+ 
